@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "197472094959",
+    "firebase_url": "https://dicio-2f074-default-rtdb.firebaseio.com",
+    "project_id": "dicio-2f074",
+    "storage_bucket": "dicio-2f074.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197472094959:android:c9844f398b9edcd485691a",
+        "android_client_info": {
+          "package_name": "com.dicoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197472094959-olip0fnc1lqi9ps829oj4j9bkgjej9qm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6HZt9x9nMdkxUOyMJPunULqAAhTtQP9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197472094959-olip0fnc1lqi9ps829oj4j9bkgjej9qm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
